@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF9DCB7C-613B-4B1D-BA81-930190BB1DC7}|Elementos de la soluci\u00F3n{AF9DCB7C-613B-4B1D-BA81-930190BB1DC7}|C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AF9DCB7C-613B-4B1D-BA81-930190BB1DC7}|Elementos de la soluci\u00F3n{AF9DCB7C-613B-4B1D-BA81-930190BB1DC7}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\amysa\\desktop\\9no cuatri\\desarrollo web integral\\api_instrumentos\\api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -99,12 +103,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-23T01:21:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Instrumento.cs",
               "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\Api_Instrumentos\\Models\\Instrumento.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Models\\Instrumento.cs",
               "ToolTip": "C:\\Users\\amysa\\Desktop\\9no cuatri\\Desarrollo web integral\\Api_Instrumentos\\Api_Instrumentos\\Models\\Instrumento.cs",
               "RelativeToolTip": "Api_Instrumentos\\Models\\Instrumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T01:06:35.947Z",
               "EditorCaption": ""

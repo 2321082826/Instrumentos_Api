@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Api_Instrumentos/Api_Instrumentos.csproj" />
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Api_Instrumentos/Api_Instrumentos.csproj" Id="61b13a5e-f70e-4882-a6cb-d63f588f3639" />
 </Solution>
