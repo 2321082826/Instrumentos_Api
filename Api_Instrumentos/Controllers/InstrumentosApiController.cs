@@ -11,33 +11,36 @@ namespace Api_Instrumentos.Controllers
 {
     public class InstrumentosApiController : ApiController
     {
-        InstrumentoADO instrumentoADO = new InstrumentoADO(); //crear una instancia (o un "objeto") de la clase InstrumentoADO
+        InstrumentoADO instrumentoDAO = new InstrumentoADO(); //crear una instancia (o un "objeto") de la clase InstrumentoADO
 
         // GET api/<controller>
         public IEnumerable<Instrumento> Get() //método GET que devuelve una lista de instrumentos
         {
-            return instrumentoADO.GetAll(); //llamo al método GetAll de la clase InstrumentoADO y devuelvo la lista de instrumentos
+            return instrumentoDAO.GetAll(); //llamo al método GetAll de la clase InstrumentoADO y devuelvo la lista de instrumentos
         }
 
         // GET api/<controller>/5
         public Instrumento Get(int id)
         {
-            return instrumentoADO.GetById(id); //llamo al método GetById de la clase InstrumentoADO y dev
+            return instrumentoDAO.GetById(id); //llamo al método GetById de la clase InstrumentoADO y dev
         }
 
         // POST api/<controller>
-        public void Post([FromBody] string value)
+        public void Post(Instrumento instrumento)
         {
+            instrumentoDAO.Insert(instrumento);
         }
 
         // PUT api/<controller>/5
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, Instrumento instrumento)
         {
+            instrumentoDAO.Update(id, instrumento);
         }
 
         // DELETE api/<controller>/5
         public void Delete(int id)
         {
+            instrumentoDAO.Delete(id);
         }
     }
 }

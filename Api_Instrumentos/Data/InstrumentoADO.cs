@@ -26,7 +26,7 @@ namespace Api_Instrumentos.Data
                     lista.Add(new Instrumento()
                     {
 
-                        Id = (int)reader["id_instrumento"],
+                        Id = Convert.ToInt32(reader["id_instrumento"]),
                         Nombre = reader["instrumento"].ToString(),
                         Categoria = reader["categoria"].ToString(),
                         Marca = reader["marca"].ToString(),
@@ -91,6 +91,40 @@ namespace Api_Instrumentos.Data
                 cmd.Parameters.AddWithValue("@stock", i.stock);
                 cmd.Parameters.AddWithValue("@stock_minimo", i.stock_minimo);
                 cmd.Parameters.AddWithValue("@descripcion", i.descripcion);
+                conexion.Open();
+                cmd.ExecuteNonQuery();
+            }
+        }
+        public void Update (int Id,Instrumento i)
+        {
+            using (NpgsqlConnection conexion = new NpgsqlConnection(connectionString))
+            {
+                string query = @"UPDATE Instrumento SET nombre=@nombre, 
+                    id_categoria=@id_categoria, id_marca=@id_marca, 
+                    id_proveedor= @id_proveedor, precio_compra=@precio_compra,
+                    precio_venta=@precio_venta, stock=@stock, stock_minimo=@stock_minimo,
+                    descripcion=@descripcion WHERE id=@Id";
+                NpgsqlCommand cmd = new NpgsqlCommand(query, conexion);
+                cmd.Parameters.AddWithValue("@nombre", i.Nombre);
+                cmd.Parameters.AddWithValue("@id_categoria", i.Categoria);
+                cmd.Parameters.AddWithValue("@id_marca", i.Marca);
+                cmd.Parameters.AddWithValue("@id_proveedor", i.Provedor);
+                cmd.Parameters.AddWithValue("@precio_compra", i.precio_compra);
+                cmd.Parameters.AddWithValue("@precio_venta", i.precio_venta);
+                cmd.Parameters.AddWithValue("@stock", i.stock);
+                cmd.Parameters.AddWithValue("@stock_minimo", i.stock_minimo);
+                cmd.Parameters.AddWithValue("@descripcion", i.descripcion);
+                conexion.Open();
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public void Delete(int Id) {
+            using (NpgsqlConnection conexion = new NpgsqlConnection(connectionString))
+            {
+                string query = "DELETE FROM Instrumento WHERE id=@Id";
+                NpgsqlCommand cmd = new NpgsqlCommand(query,conexion);
+                cmd.Parameters.AddWithValue("@id", Id);
                 conexion.Open();
                 cmd.ExecuteNonQuery();
             }

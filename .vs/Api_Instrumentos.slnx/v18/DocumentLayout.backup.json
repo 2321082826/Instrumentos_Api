@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\",
+  "WorkspaceRootPath": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\andre\\onedrive\\escritorio\\proyecto3\\instrumentos_api\\api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\amysa\\desktop\\instrumentos_api\\api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\andre\\onedrive\\escritorio\\proyecto3\\instrumentos_api\\api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\andre\\onedrive\\escritorio\\proyecto3\\instrumentos_api\\api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -26,60 +26,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Instrumento.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Models\\Instrumento.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
               "RelativeToolTip": "Api_Instrumentos\\Models\\Instrumento.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T01:06:35.947Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InstrumentosApiController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "RelativeDocumentMoniker": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "RelativeToolTip": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:36:29.171Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b38c6cbc-524d-4f30-8a18-936e3104b734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:275484497:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InstrumentoADO.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
+              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Data\\InstrumentoADO.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
+              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
               "RelativeToolTip": "Api_Instrumentos\\Data\\InstrumentoADO.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAgwF4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T23:03:57.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstrumentosApiController.cs",
+              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "RelativeDocumentMoniker": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "RelativeToolTip": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T01:36:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
+              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Web.config",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
+              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
               "RelativeToolTip": "Api_Instrumentos\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-07-23T22:54:01.525Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
