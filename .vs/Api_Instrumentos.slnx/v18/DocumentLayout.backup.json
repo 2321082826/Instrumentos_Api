@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\amysa\\desktop\\instrumentos_api\\api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|c:\\users\\andre\\onedrive\\escritorio\\proyecto3\\instrumentos_api\\api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\data\\instrumentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\models\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\controllers\\instrumentosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{61B13A5E-F70E-4882-A6CB-D63F588F3639}|Api_Instrumentos\\Api_Instrumentos.csproj|solutionrelative:api_instrumentos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Instrumento.cs",
-              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Models\\Instrumento.cs",
-              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs",
-              "RelativeToolTip": "Api_Instrumentos\\Models\\Instrumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Models\\Instrumento.cs*",
+              "RelativeToolTip": "Api_Instrumentos\\Models\\Instrumento.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T01:06:35.947Z",
               "IsPinned": true,
@@ -126,11 +126,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InstrumentoADO.cs",
-              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Data\\InstrumentoADO.cs",
-              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs",
-              "RelativeToolTip": "Api_Instrumentos\\Data\\InstrumentoADO.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Data\\InstrumentoADO.cs*",
+              "RelativeToolTip": "Api_Instrumentos\\Data\\InstrumentoADO.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T23:03:57.982Z",
               "EditorCaption": ""
@@ -139,11 +139,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "InstrumentosApiController.cs",
-              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
               "RelativeToolTip": "Api_Instrumentos\\Controllers\\InstrumentosApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T01:36:29.171Z",
               "EditorCaption": ""
@@ -152,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
               "RelativeDocumentMoniker": "Api_Instrumentos\\Web.config",
-              "ToolTip": "C:\\Users\\amysa\\Desktop\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\PROYECTO3\\Instrumentos_Api\\Api_Instrumentos\\Web.config",
               "RelativeToolTip": "Api_Instrumentos\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

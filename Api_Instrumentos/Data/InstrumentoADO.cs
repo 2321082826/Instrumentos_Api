@@ -31,12 +31,12 @@ namespace Api_Instrumentos.Data
                         Categoria = reader["categoria"].ToString(),
                         Marca = reader["marca"].ToString(),
                         Provedor = reader["proveedor"].ToString(),
-                        precio_compra = (double)reader["precio_compra"],
-                        precio_venta = (double)reader["precio_venta"],
+                        precio_compra = Convert.ToDecimal(reader["precio_compra"]),
+                        precio_venta = Convert.ToDecimal(reader["precio_venta"]),
                         stock = reader["stock"] == DBNull.Value ? 0 : Convert.ToInt32(reader["stock"]),
                         stock_minimo = reader["stock_minimo"] == DBNull.Value ? 0 : Convert.ToInt32(reader["stock_minimo"]),
                         descripcion = reader["descripcion"] == DBNull.Value ? "" : reader["descripcion"].ToString(),
-                        FechaCreacion = reader["fecha_registro"] == DBNull.Value ? DateTime.Now : (DateTime)reader["fecha_registro"]
+                        FechaCreacion = reader["fecha_registro"] == DBNull.Value ? DateTime.Now : Convert.ToDateTime(reader["fecha_registro"]),
                     });
                 }
             }
@@ -62,12 +62,12 @@ namespace Api_Instrumentos.Data
                         Categoria = reader["categoria"].ToString(),
                         Marca = reader["marca"].ToString(),
                         Provedor = reader["proveedor"].ToString(),
-                        precio_compra = (double)reader["precio_compra"],
-                        precio_venta = (double)reader["precio_venta"],
+                        precio_compra = Convert.ToDecimal(reader["precio_compra"]),
+                        precio_venta = Convert.ToDecimal(reader["precio_venta"]),
                         stock = reader["stock"] == DBNull.Value ? 0 : Convert.ToInt32(reader["stock"]),
                         stock_minimo = reader["stock_minimo"] == DBNull.Value ? 0 : Convert.ToInt32(reader["stock_minimo"]),
                         descripcion = reader["descripcion"] == DBNull.Value ? "" : reader["descripcion"].ToString(),
-                        FechaCreacion = reader["fecha_registro"] == DBNull.Value ? DateTime.Now : (DateTime)reader["fecha_registro"]
+                        FechaCreacion = reader["fecha_registro"] == DBNull.Value ? DateTime.Now : Convert.ToDateTime(reader["fecha_registro"]),
                     };
                 }
             }
