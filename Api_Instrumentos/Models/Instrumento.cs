@@ -14,8 +14,8 @@ namespace Api_Instrumentos.Models
         public string Categoria { get; set; }
         public string Marca { get; set; }
         public string Provedor { get; set; }
-        public float precio_compra { get; set; }
-        public float precio_venta { get; set; }
+        public double precio_compra { get; set; }
+        public double precio_venta { get; set; }
         public int stock { get; set; }
         public int stock_minimo { get; set; }
         public string descripcion { get; set; }
